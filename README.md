@@ -1,11 +1,9 @@
-# ElaAdmin HTML5 Admin Dashboard Template
-**ElaAdnin** is a responsive Bootstrap 4 Admin Template. It provides you with a collection of ready to use code snippets and utilities, custom pages, loads of charts, dashboard variations, a collection of applications and some useful widgets. Preview of this awesome admin template available here: https://colorlib.com/polygon/elaadmin/index.html
+# Meliora App
 
-# Preview
 
 ### Screenshot
 
-![ElaAdmin admin dashboard template preview](https://colorlib.com/wp/wp-content/uploads/sites/2/ela-admin-free-admin-panel-template.jpg)
+![Meliora App]
 
 ### Demo Site: [Here](https://colorlib.com/polygon/elaadmin/index.html)
 
@@ -74,7 +72,7 @@
 #### V 1.0.0
 Initial Release
 ### Authors
-[Colorlib](https://colorlib.com)
+
 
 ### More info
 - [Bootstrap admin dashboards](https://colorlib.com/wp/free-bootstrap-admin-dashboard-templates/)
